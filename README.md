@@ -1,1 +1,2 @@
-# lagerverwaltung-demo
+# Lagerverwaltung Demo
+Dies ist ein Beispielprojekt für ein Rettungsdienst-Lagersystem.
